@@ -14,6 +14,6 @@ class Support {
 const aamir = new Support('Aami Khan', 'BD');
 const salman = new Support('Salman Khan', 'Dubai')
 
-aamir.startSession();
+aamir.startSession(); 
 // console.log(aamir);
 // console.log(salman);
